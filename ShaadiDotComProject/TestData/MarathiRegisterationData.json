@@ -1,0 +1,14 @@
+﻿{
+    "Email": "abc@test.com",
+	"Password": "TestUser@12345",
+	"Profile": "Self",
+	"Gender": "Male",
+	"Firstname": "TestUser",
+	"Lastname": "TestUser",
+	"BirthDay": "16",
+	"BirthMonth": "Apr",
+	"BirthYear": "1994",
+	"Religion": "Hindu",
+	"MotherTongue": "Marathi",
+	"Country": "India"
+}
