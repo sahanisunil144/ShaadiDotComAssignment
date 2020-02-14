@@ -1,0 +1,11 @@
+pipeline
+{
+	agent any
+stages{
+	stage('Build'){steps{echo 'Building the code'}}
+	stage('Dev'){steps{echo 'Deploying into Development'}}
+	stage('QA'){steps{echo 'Deploying into QA'}}
+	stage('Testing'){steps{echo 'Testing application automation code'}}
+	stage('UAT'){steps{echo 'Deploying into UAT'}}
+	}
+}
